@@ -2,4 +2,4 @@
 
 ![AoC2022 logo](https://raw.githubusercontent.com/orfeasa/advent-of-code-2022/master/header.png)
 
-Link : https://adventofcode.com/2022/day/1
+Link : https://adventofcode.com/2022
