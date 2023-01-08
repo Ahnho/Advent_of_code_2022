@@ -5,7 +5,7 @@ def marker_list(ff):
         stream = f.read().strip("")
     return stream
 
-def day_6_p1(path):
+def day_6_p2(path):
     stream = marker_list(path)
     print(stream)
     for s in range(len(stream)):
@@ -13,4 +13,4 @@ def day_6_p1(path):
             return s + 14
     return 0
 
-print(day_6_p1(path))
+print(day_6_p2(path))
