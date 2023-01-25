@@ -17,5 +17,5 @@ Problems | Solution p_1 | Solution p_2 | Data | Stars |
 005 Supply Stacks | [p05_1](./day_5/part5_1.py) | [p05_2](./day_5/part5_2.py) | [input_05](./day_5/input5.txt) | ⭐⭐
 006 Tuning Trouble | [p06_1](./day_6/part6_1.py) | [p06_2](./day_6/part6_2.py) | [input_06](./day_6/input6.txt) | ⭐⭐
 007 No Space Left On Device | [p07_1](./day_7/part7_1.py) | [p07_2](./day_7/part7_2.py) | [input_07](./day_7/input7.txt) | 
-009 Rope Bridge | [p09_1](./day_9/part9_1.py) | [p09_2](./day_9/part9_2.py) | [input_09](./day_9/input9.txt) | ⭐
+009 Rope Bridge | [p09_1](./day_9/part9_1.py) | [p09_2](./day_9/part9_2.py) | [input_09](./day_9/input9.txt) | ⭐⭐
 010 Cathode-Ray Tube | [p10_1](./day_10/part10_1.py) | [p010_2](./day_10/part10_2.py) | [input_10](./day_10/input10.txt) | ⭐⭐
